@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.counting{
+    width: 50%;
+}
+
+.list{
+    width: 50%;
+}
