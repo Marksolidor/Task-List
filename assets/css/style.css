@@ -1,3 +1,13 @@
+.block {
+    width: 60%;
+    border: 2px solid black;
+    border-radius: 0.5em;
+}
+
+.search-menu {
+    text-align: center;
+}
+
 .container {
     width: 100%;
     display: flex;
@@ -5,8 +15,10 @@
 
 .counting{
     width: 50%;
+    padding: 0.5em;
 }
 
 .list{
     width: 50%;
+    padding: 0.5em;
 }
